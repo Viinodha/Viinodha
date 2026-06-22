@@ -11,7 +11,7 @@ I'm a curious student exploring different areas of tech, constantly learning, ex
 
 ## 
 
-✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 🛠﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 🛠﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 <div align="center">
 
@@ -26,7 +26,7 @@ I'm a curious student exploring different areas of tech, constantly learning, ex
 [![Figma](https://img.shields.io/badge/Figma-E8D5C4?style=for-the-badge&logo=figma&logoColor=5C4033)]()
 </div>
 
-✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘩𝘦𝘳𝘦﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘩𝘦𝘳𝘦﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-E8D5C4?style=for-the-badge&logo=gmail&logoColor=5C4033)](mailto:vinodha287@gmail.com)
