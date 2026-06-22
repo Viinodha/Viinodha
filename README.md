@@ -1,17 +1,18 @@
-## Hello World, I'm Vinodha! ִ𖤐
+## 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱, 𝗜'𝗺 𝗩𝗶𝗻𝗼𝗱𝗵𝗮!  𖤐
 ```txt
     ∧＿∧  
 　 (｡･ω･｡)つ━☆・*。
   ⊂/　  /　      ・゜ 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘛𝘦𝘤𝘩 𝘶𝘯𝘥𝘦𝘳𝘨𝘳𝘢𝘥
    しーＪ　　    °。+*°。𝘊𝘳𝘢𝘧𝘵𝘪𝘯𝘨 𝘸𝘦𝘣𝘴𝘪𝘵𝘦𝘴 𝘢𝘯𝘥 𝘢𝘱𝘱𝘴 𝘢𝘯𝘥 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘵𝘦𝘤𝘩 𝘦𝘷𝘦𝘳𝘺𝘥𝘢𝘺
 ```
+
 ✩ Web Development ✩ UI/UX designer ✩ Aspiring software developer
 
 I'm a curious student exploring different areas of tech, constantly learning, experimenting, and building along the way :)
 
 ## 
 
-✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 🛠﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 ☕︎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 <div align="center">
 
